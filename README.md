@@ -20,3 +20,5 @@ background.png (snazzy hidden folder background)
 
 previous.appdmg.json (JSON package defs)
 
+
+![](previousdmg.png)
