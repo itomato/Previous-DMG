@@ -1,0 +1,6 @@
+{ "title": "Previous", "icon": "Previous.icns", "background": "background.png",
+  "contents": [
+    { "x": 523, "y": 262, "type": "link", "path": "/Applications" },
+    { "x": 141, "y": 262, "type": "file", "path": "Previous.app" }
+  ]
+}
